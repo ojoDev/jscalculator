@@ -1,0 +1,55 @@
+body{
+  padding: 10px 10px 10px 10px;
+  font-family: Cambria, Georgia, serif;
+}
+
+#calculator{ 
+	margin-left: auto;
+  	margin-right: auto;
+    align-self: center;
+    height: 350px;
+    width: 260px;
+    border: 2px solid #999;
+    background-color: #9999995e;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+button.number{
+    margin: 2px 2px 2px 2px;
+    padding: 10px 10px 10px 10px;
+}
+
+button.op{
+    margin: 2px 2px 2px 2px;
+     padding: 10px 10px 10px 10px;
+}
+
+button{
+  height: 40px;
+  width: 40px;
+}
+
+div.buttons{
+    padding: 10px 10px 10px 10px;
+}
+
+.input{
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+}
+
+.screen{
+	text-size:14px;
+	text-indent:8px;
+	width:195px;
+	font-size:14px;
+	margin-left:20px;
+}
+
+.mainscreen{
+	font-size:18px;
+}
+
+.textarea{
+	 width: 195px;
+}
